@@ -1,6 +1,6 @@
 # Angular 9 Example Components
 
-> An Angular starter kit featuring [Angular 9.1.4](https://angular.io), [Angular CLI 9.1.4](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 9.1.7](https://angular.io), [Angular CLI 9.1.6](https://cli.angular.io/)
 
 
 ## Quick start
@@ -38,7 +38,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * `npm run e2e`
 
 ### Author
-* Updated : 07/05/2020
+* Updated : 18/05/2020
 * Author  : danny
 
 ### Documentation
@@ -47,4 +47,5 @@ English Tutorials
 - Tutorials Step-by-Step - https://www.ganatan.com/tutorials/en
 
 Tutoriels en français
+- Installation - https://www.ganatan.com/tutorials/components-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
