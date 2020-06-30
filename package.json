@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ganatan/angular-example-bootstrap.git"
+    "url": "https://github.com/ganatan/angular-example-components.git"
   },
   "author": {
     "name": "danny",
@@ -20,9 +20,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ganatan/angular-example-bootstrap/issues"
+    "url": "https://github.com/ganatan/angular-example-components/issues"
   },
-  "homepage": "https://github.com/ganatan/angular-example-bootstrap#readme",
+  "homepage": "https://github.com/ganatan/angular-example-components#readme",
   "private": true,
   "dependencies": {
     "@angular/animations": "10.0.1",
